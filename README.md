@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hemant-chaurasia-80a31b193/](https://www.linkedin.com/in/hemant-chaurasia-80a31b193/)
-
 - 💬 Ask me about **C, Html & Css, C# and Lua**
 
 - 📫 How to reach me **chaurasiahemant2002@gmail.com**
