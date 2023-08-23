@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemant Chaurasia</h1>
 <h3 align="center">A passionate budding programmer...</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Golang** <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/go-logo-white.svg" alt="blender" width="40" height="40"/> </a>
 
 - 💬 Ask me about **C, Html & Css, C# and Lua**
 
