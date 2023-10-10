@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Golang** 
 
-- 💬 Ask me about **C, Html & Css, C# and Lua**
+- 💬 Ask me about **Html & Css, Golang, C# and Lua**
 
 - 📫 How to reach me **chaurasiahemant2002@gmail.com**
 
