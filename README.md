@@ -18,7 +18,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemantchaurasia2002&" alt="hemantchaurasia2002" /></p>
 
 
-[![Hemant’s github stats](https://github-readme-stats.vercel.app/api?username=hemantchaurasia2002&theme=onedark)](https://github.com/hemantchaurasia2002)
 
 [![An image of @hemantchaurasia2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hemantchaurasia2002)](https://holopin.io/@hemantchaurasia2002)
 
