@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemant</h1>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/sultan-alrefaei-programmer-office-gif-13165216">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/3o2m.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantchaurasia2002&label=Profile%20views&color=0e75b6&style=flat" alt="hemantchaurasia2002" /> </p>
 
 - 🌱 I’m currently learning **Golang**
